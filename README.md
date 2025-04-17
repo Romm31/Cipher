@@ -1,4 +1,4 @@
 # Cipher
 ---
 
-all about operable ciphers in python
+all about operable scripts in python
